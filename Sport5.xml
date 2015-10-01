@@ -1,10 +1,10 @@
 <rss xmlns:jpostChannel="http://www.jpost.com" version="2.0">
    <channel>
-      <title>JPost.com - Israel News</title>
-      <channelName>Israel News</channelName>
-      <link>http://www.jpost.com</link>
-      <description>www.jpost.com</description>
-      <copyright>© 1995 - 2014 The Jerusalem Post. All rights reserved.</copyright>
+      <title>Sport 5</title>
+      <channelName>Sport5Test</channelName>
+      <link>http://www.sport5.co.il</link>
+      <description>http://www.sport5.co.il</description>
+      <copyright>All rights reserved.</copyright>
       <generator>RSSFeeds</generator>
       <item>
          <title>רונאלדו מלך שערי ריאל: "לא ציפיתי לזה"</title>
