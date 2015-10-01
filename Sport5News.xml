@@ -22,7 +22,7 @@
          <isPremium>N</isPremium>
          <isVideo>False</isVideo>
          <Sponsored>False</Sponsored>
-         <Tags>sport5</Tags>
+         <Tags>jpost</Tags>
          <CategoryID>13</CategoryID>
       </item>
       <item>
@@ -45,7 +45,7 @@
          <RelatedItemID2 />
          <RelatedItemID3 />
          <Sponsored>False</Sponsored>
-         <Tags>sport5</Tags>
+         <Tags>jpost</Tags>
          <CategoryID>63</CategoryID>
       </item>
       <item>
@@ -68,7 +68,7 @@
          <RelatedItemID2>393532</RelatedItemID2>
          <RelatedItemID3>394818</RelatedItemID3>
          <Sponsored>False</Sponsored>
-         <Tags>sport5</Tags>
+         <Tags>jpost</Tags>
          <CategoryID>12</CategoryID>
       </item>
       <item>
@@ -92,7 +92,7 @@
          <RelatedItemID3>394883</RelatedItemID3>
          <Author>By JPOST.COM STAFF</Author>
          <Sponsored>False</Sponsored>
-         <Tags>sport5</Tags>
+         <Tags>jpost</Tags>
          <CategoryID>69</CategoryID>
       </item>
       <item>
@@ -115,7 +115,7 @@
          <RelatedItemID2>394632</RelatedItemID2>
          <RelatedItemID3>394807</RelatedItemID3>
          <Sponsored>False</Sponsored>
-         <Tags>sport5</Tags>
+         <Tags>jpost</Tags>
          <CategoryID>12</CategoryID>
       </item>
       <item>
@@ -138,7 +138,7 @@
          <RelatedItemID2>392064</RelatedItemID2>
          <RelatedItemID3 />
          <Sponsored>False</Sponsored>
-         <Tags>sport5</Tags>
+         <Tags>jpost</Tags>
          <CategoryID>69</CategoryID>
       </item>
    </channel>
