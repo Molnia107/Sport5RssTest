@@ -1,31 +1,28 @@
 <rss xmlns:jpostChannel="http://www.jpost.com" version="2.0">
    <channel>
-      <title>Sport 5 Test</title>
-      <channelName>Home</channelName>
-      <link>http://www.sport5.co.il</link>
-      <description>Sport5<description>
-      <copyright>All rights reserved.</copyright>
+      <title>JPost.com - Israel News</title>
+      <channelName>Israel News</channelName>
+      <link>http://www.jpost.com</link>
+      <description>www.jpost.com</description>
+      <copyright>© 1995 - 2014 The Jerusalem Post. All rights reserved.</copyright>
       <generator>RSSFeeds</generator>
       <item>
          <title>רונאלדו מלך שערי ריאל: "לא ציפיתי לזה"</title>
          <link>http://m.sport5.co.il/Articles.aspx?docID=197587</link>
-         <description>
-            &lt;img height="80" width="100" align="right" src="http://www.sport5.co.il/Sip_Storage/FILES/6/Black137X104/550046.jpg" /&gt;
-            &lt;br /&gt;
-            Test.
-            &lt;br /&gt;
-         </description>
-         <pubDate>Sun, 31 May 2015 12:05:13 GMT</pubDate>
-         <itemID>404688</itemID>
+         <description>&lt;img height='80' width='100' align='right' src='http://www.sport5.co.il/Sip_Storage/FILES/6/Black137X104/550046.jpg'/&gt;&lt;br/&gt;Test.&lt;br/&gt;</description>
+         <Photographer>MARK NEYMAN / GPO</Photographer>
+         <pubDate>Wed, 25 Sep 2015 22:53:20 GMT</pubDate>
+         <UpdateDate>Wed, 25 Sep 2015 22:53:23 GMT</UpdateDate>
+         <itemID>416746</itemID>
          <isPremium>N</isPremium>
          <isVideo>False</isVideo>
-         <Sponsored>False</Sponsored>
-         <Tags>Israel news</Tags>
-         <CategoryID>13</CategoryID>
          <RelatedItemID1>416608</RelatedItemID1>
-         <RelatedItemID2/>
-         <RelatedItemID3/>
+         <RelatedItemID2 />
+         <RelatedItemID3 />
          <Author>By YONAH JEREMY BOB,GREER FAY CASHMAN</Author>
+         <Sponsored>False</Sponsored>
+         <Tags>Israel news,Supreme Court,Middle East</Tags>
+         <CategoryID>69</CategoryID>
       </item>
    </channel>
 </rss>
